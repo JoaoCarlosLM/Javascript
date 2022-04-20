@@ -1,0 +1,1 @@
+window.alert("Prova de Milhões!");
